@@ -1,0 +1,19 @@
+{
+    "token": "",
+
+    "server_count": {
+        "server_id": "Your server ID",
+        "everyone_channel": "It will show everyone in the discord",
+
+        "client_count": true,
+        "client_channel": "the channel that it shows how many clients you have",
+        "client_role": "the role the clients get when they buy something",
+
+
+        "show_bans": true,
+        "ban_channel": "Shows the amount of bans in your discord",
+
+        "show_bots": true,
+        "bots_channel": "shows the amount of bots in your discord"
+    }
+}
